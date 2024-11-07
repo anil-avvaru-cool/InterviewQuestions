@@ -1,14 +1,14 @@
-Entity framework loading modes
+## Entity framework loading modes
 
 Eager loading\
 Explicit loading\
 Lazy loading
 
-##Custom middleware
+## Custom middleware
 
-##Filters
+## Filters
 
-LINQ\
+## LINQ
 
 
 
