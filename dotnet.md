@@ -4,8 +4,10 @@ Eager loading\
 Explicit loading\
 Lazy loading
 
-Custom middleware\
-Filters\
+##Custom middleware
+
+##Filters
+
 LINQ\
 
 
