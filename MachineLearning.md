@@ -1,4 +1,17 @@
-## Computer vision: Image recognition
+## Computer vision: 
+Basic
+Liner algebra, calculus, probability.
+Image processing
+Video processing
+
+Intermediate
+
+Object detection
+
+Object segmentation
+
+Extract features
+
 
 ## Natural language processing
 
