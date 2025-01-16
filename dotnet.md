@@ -9,7 +9,13 @@ Lazy loading
 ## Filters
 Filter Types
 
+## Put vs post vs patch
+
+## Http Idempotent verbs
+https://www.theserverside.com/tip/Idempotent-HTTP-methods-and-REST
+
 ## LINQ
+
 
 
 
