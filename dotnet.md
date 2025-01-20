@@ -16,6 +16,24 @@ https://www.theserverside.com/tip/Idempotent-HTTP-methods-and-REST
 
 ## LINQ
 
+## OAuth
+
+Grant types: 
+Authorization Code
+PKCE
+
+Client credential
+
+IDP: Identity provider
+Resource server
+Client
+
+## JWT
+Header: Meta data
+Body: Claims
+Footer: Certificate
+
+
 
 
 
