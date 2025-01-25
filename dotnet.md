@@ -29,7 +29,7 @@ Resource server
 Client
 
 ## JWT
-Header: Meta data
+Header: Algorithem 
 Body: Claims
 Footer: Certificate
 

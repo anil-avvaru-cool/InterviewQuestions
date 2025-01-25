@@ -24,6 +24,9 @@ Packaged as a Linux based docker container
 - Read API Documentation
 - Create account and subscribe to get API keys
 - Manage API keys
+- Azure entra authentication, RBAC
+- UI Customization like text, color etc
+- You can Host in azure static web apps instead of azure managed hosting.
 
 ### API Management tiers
 - Classic: Basic, standard, Premium
@@ -107,6 +110,8 @@ Send request:
 Example: next hop virtual appliance
 
  # Azure NSG
+
+ # Azure logic apps
 
 
 
